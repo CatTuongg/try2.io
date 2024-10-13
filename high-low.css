@@ -1,0 +1,78 @@
+*{
+   padding: 10px; 
+   font-family: Inter;
+}
+h1{
+  font-size: 5vw;
+  /* border-bottom: 4px dotted grey ; */
+  text-decoration: underline overline;
+
+}
+.button{
+  width: 50%;
+  font-size: 2.5vw;
+  margin-left: 40px;
+}
+
+.img1 , .img2, .img3, .img4, .img5, .img6, .img7
+{
+  margin-left: 20px;
+  height: 75px !important;
+  width: 75px !important;
+  height: auto;
+  width: auto;
+  border-radius: 50%;
+  background-size: cover;
+  margin-top: 15px;
+}
+
+.img1{
+
+
+
+  background-image: url('./Pictures/ava-mona.png.webp');
+ 
+}
+.img2{
+  background-image: url('./Pictures/avatarxam.jpg');
+ 
+}
+.img3{
+  background-image: url('./Pictures/ava-wony.png');
+
+}
+.img4{
+  background-image: url('./Pictures/ava-cat.jpg');
+ 
+}
+.img5{
+  background-image: url('./Pictures/scarlet.jpg');
+}
+.img6{
+  background-image: url('./Pictures/avatarxam.jpg');
+}
+.img7{
+  background-image: url('./Pictures/will.jpg');
+}
+.name{
+  /* padding-left: 150px; */
+  font-weight: bold;
+  text-decoration: underline;
+  margin-bottom: 0 !important;
+
+}
+
+.row {
+  padding:0 !important;
+  border: dotted 4px black;
+  
+}
+.re-1{
+  margin-top: 40px;
+}
+.cmt{
+  padding-top:0;
+}
+.foot{
+  padding-top: 100px;
+}
